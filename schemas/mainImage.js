@@ -1,6 +1,6 @@
 export default {
     name: "mainImage",
-    title: "mainImage",
+    title: "MainImage",
     type: "document",
     fields: [
         {
